@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\bin\Debug\Eksam.exe.config
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\bin\Debug\Eksam.exe
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\bin\Debug\Eksam.pdb
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\obj\Debug\Eksam.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\obj\Debug\Eksam.exe
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\obj\Debug\Eksam.pdb
+C:\Users\opilane\source\repos\Eksamitöö\Eksam\obj\Debug\Eksam.csprojResolveAssemblyReference.cache

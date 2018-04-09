@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\bin\Debug\Ülesanne3.exe.config
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\bin\Debug\Ülesanne3.exe
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\bin\Debug\Ülesanne3.pdb
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\obj\Debug\Ülesanne3.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\obj\Debug\Ülesanne3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\obj\Debug\Ülesanne3.exe
+C:\Users\opilane\source\repos\Eksamitöö\Ülesanne3\obj\Debug\Ülesanne3.pdb
